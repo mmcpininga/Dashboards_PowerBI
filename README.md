@@ -11,6 +11,7 @@ Uma empresa comercializa produtos online. A empresa configurou o Google Analytic
 6. Qual o total de faturamento por dia?
 
 Solução Projeto 1:
+
 ![projeto1](https://user-images.githubusercontent.com/18504119/126562419-5efb38a9-fcd7-4e6a-ad53-21bce48cb5a3.png)
 
 PROJETO 2
@@ -21,9 +22,11 @@ descartar os fabricantes cujos produtos possuem poucas vendas e tentar negociar 
 Em paralelo a isso, a empresa gostaria de ter diferentes visões das vendas realizadas nos últimos 4 anos (período de 2012 a 2015). Deve ser possível segmentar os relatórios de vendas por diferentes informações e por diferentes ângulos. Estas informações irão suportar as estratégias da empresa para o próximo ano.
 
 Solução Projeto 2:
+
 ![projeto2](https://user-images.githubusercontent.com/18504119/127672573-42069f2d-8e1f-4df4-9857-2d8fa1b3174c.png)
 
 PROJETO 3
+
 Uma operadora de plano de saúde atende em quatro regiões do Brasil. Os diretores perceberam que os gastos de seguro saúde aumentaram de forma considerável e precisam monitorar a evolução dos gastos. Os diretores precisam de respostas às seguintes perguntas:
 
 1. Qual o gasto total da operadora?
@@ -39,6 +42,7 @@ Uma operadora de plano de saúde atende em quatro regiões do Brasil. Os diretor
 maior ou menor que a média de gastos da região?
 
 Solução Projeto 3:
+
 ![projeto3](https://user-images.githubusercontent.com/18504119/127672525-85d8f954-523f-4517-90ac-b2df7f7860a0.png)
 
 
